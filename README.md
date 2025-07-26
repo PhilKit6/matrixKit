@@ -1,6 +1,6 @@
 # LED Matrix RGB Equation Simulator
 
-<img width="680" height="819" alt="image" src="https://github.com/user-attachments/assets/bdca2301-c6de-4515-bb96-aba43318ad5e" />
+
 
 
 
