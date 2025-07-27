@@ -1,4 +1,4 @@
-# LED Matrix RGB Simulator
+ # LED Matrix RGB Simulator
 
 
 
@@ -6,7 +6,7 @@
 
 This project is an interactive LED matrix simulator designed to provide a virtual platform for developing animations for LED matrices, specifically pimoroni's Cosmic Unicorn.
 
-Inspired by a desire to enhance nighttime cycling visibility with personality and creativity, this simulator allows you to experiment with mathematical patterns and colour dynamics. The 32x32 LED grid (based on Pimoroni's Cosmic Unicorn LED panel) acts as a virtual canvas where you can write real-time equations to generate flowing waves, sparkles, pulses, and more. It's an ideal tool for testing and perfecting animation logic before deploying it to physical LED hardware like the Cosmic Unicorn or similar devices.
+The simulator allows you to experiment with mathematical patterns and colour dynamics. The 32x32 LED grid acts as a virtual canvas where you can write real-time equations to generate flowing waves, sparkles, pulses, and more. It's an ideal tool for testing and perfecting animation logic before deploying it to physical LED hardware like the Cosmic Unicorn or similar devices.
 
 Whether you're a hobbyist, an engineer, or just someone who enjoys visual math experiments, this simulator offers a playful and powerful way to bring light-based designs to life.
 
@@ -17,7 +17,6 @@ Whether you're a hobbyist, an engineer, or just someone who enjoys visual math e
 * **32x32 RGB LED Grid**: Each LED can be individually controlled.
 * **Live Equation Editor**: Input mathematical expressions for `r`, `g`, and `b` values using variables `x`, `y`, and `t`.
 * **Real-time Animation**: The matrix updates frame-by-frame using your equations.
-* **Splash Screen**: Starts with a colorful, animated splash effect.
 * **Clipboard Support**: Supports pasting into the input fields (Ubuntu/Wayland compatible).
 * **Clear & Submit Buttons**: Easy controls to clear fields or apply changes.
 
