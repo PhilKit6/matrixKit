@@ -9,7 +9,7 @@ pyperclip.set_clipboard("wl-clipboard")
 
 WIDTH, HEIGHT = 32, 32
 LED_SIZE = 20
-MARGIN = 3
+MARGIN = 5
 FPS = 30
 OFF = (10, 10, 10)
 
