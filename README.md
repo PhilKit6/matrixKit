@@ -1,10 +1,10 @@
-# LED Matrix RGB Equation Simulator
+# LED Matrix RGB Simulator
 
 
 
 
 
-This project is an interactive LED matrix simulator designed to provide a virtual platform for developing animations for a real-world bike-mounted LED system.
+This project is an interactive LED matrix simulator designed to provide a virtual platform for developing animations for LED matrices, specifically pimoroni's Cosmic Unicorn.
 
 Inspired by a desire to enhance nighttime cycling visibility with personality and creativity, this simulator allows you to experiment with mathematical patterns and colour dynamics. The 32x32 LED grid (based on Pimoroni's Cosmic Unicorn LED panel) acts as a virtual canvas where you can write real-time equations to generate flowing waves, sparkles, pulses, and more. It's an ideal tool for testing and perfecting animation logic before deploying it to physical LED hardware like the Cosmic Unicorn or similar devices.
 
