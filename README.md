@@ -1,4 +1,4 @@
- # LED Matrix RGB Simulator
+ # LED Matrix Simulator
 
 
 
