@@ -114,14 +114,6 @@ b = 0
 
 ## Ideas for Equations
 
-* Firefly Flicker:
-
-```python
-r = 255 if (int((x * y + t * 50)) % 61) == 0 else 0
-g = r
-b = 0
-```
-
 * Rainbow Wave:
 
 ```python
