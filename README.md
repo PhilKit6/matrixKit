@@ -33,8 +33,8 @@ Use the following variables in your equations:
 Example:
 
 ```python
-r = 255 if (x + t) % 32 == y else 0
-g = 255 if (x + y + t) % 61 == 0 else 0
+r = 0
+g = 255 if x == 16 else 0
 b = 0
 ```
 
