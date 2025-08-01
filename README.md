@@ -102,16 +102,6 @@ b = 0
 
 ---
 
-### 🔁 Simple blinking dot
-
-```python
-v = 255 if int(t) % 2 == 0 else 0
-r = v if x == 16 and y == 16 else 0
-g = 0
-b = 0
-```
----
-
 ## Ideas for Equations
 
 * Rainbow Wave:
